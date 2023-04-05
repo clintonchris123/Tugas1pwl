@@ -18,6 +18,7 @@
                             karna ini sudah menjadi jurusan pilihan saya, saya berharap bisa menjadi software engineering di luar negeri, karena saya berharap
                             bisa tinggal dan bekerja di Amerika, mata kuliah kesukaan saya di semester 2 ini bukannya mau caper, hehe jujur saya mulai menyukai Pemrograman Web Lanjutan ini, 
                             padahal pada saat semester 1 aku sangat kesusasahan di mata kuliah pemrograman web, tapi setelah semester 2 saya malah menyukai PWL, hehe </p>
+                            <img src="{{asset('clinton.jpeg')}}" alt="" height = "400" width= "600">
                         </div>
                     </div>
                 <!-- /.container-fluid -->

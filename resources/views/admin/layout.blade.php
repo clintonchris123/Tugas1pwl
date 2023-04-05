@@ -346,14 +346,7 @@
                 <!-- End of Topbar -->
 
                 @yield('content')
-</div>
-                <!-- /.container-fluid -->
-
-            </div>
-            <!-- End of Main Content -->
-
-            <!-- Footer -->
-            <footer class="sticky-footer bg-white">
+                <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
                         <span>Copyright &copy; Your Website 2021</span>
@@ -361,6 +354,14 @@
                 </div>
             </footer>
             <!-- End of Footer -->
+</div>
+                <!-- /.container-fluid -->
+
+            </div>
+            <!-- End of Main Content -->
+
+            <!-- Footer -->
+            
 
         </div>
         <!-- End of Content Wrapper -->

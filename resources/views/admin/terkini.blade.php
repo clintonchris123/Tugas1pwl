@@ -17,6 +17,7 @@
                         <div class="row justify-content-center">
                         <B>Eks Pegawai KPK Yakin Endar Priantoro Dipecat Gara-Gara Kasus Formula E </B>
                             <p>Lembaga Indonesia Memanggil 57+ Institute meyakini bahwa pemecatan Direktur Penyelidikan Komisi Pemberantasan Korupsi Endar Priyantoro terjadi karena adanya upaya rekayasa kasus. Menurut organisasi yang didirikan oleh mantan pegawai KPK itu, kasus yang hendak direkayasa adalah Formula E.“Pemberhentian Brigjen Endar Priantoro tidak dapat dilihat dari tindakan rutin KPK tetapi indikasi pemaksaan rekayasa kasus oleh Firli Bahuri,” kata Ketua IM57+ Institute Praswad Nugraha, Selasa, 4 April 2023.</p>
+                            <img src="{{asset('img/endar.jpg')}}" alt="" height = "400" width= "600">
                         </div>
                     </div>
                 </div>
